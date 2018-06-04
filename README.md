@@ -30,6 +30,6 @@ If you are interested in helping out please head over to the [PixelogicDev Disco
 
 ### Active TODO List
 The list of items below will be associated with Github Issues which will make it much easier to deal with
-- [ ] Set a date for the hackathon [#1](https://github.com/PixelogicDev/Hackathon/issues/1)
+- [x] Set a date for the hackathon [#1](https://github.com/PixelogicDev/Hackathon/issues/1)
 - [ ] Set a hackathon theme [#2](https://github.com/PixelogicDev/Hackathon/issues/2)
 - [ ] Finalize judging system [#3](https://github.com/PixelogicDev/Hackathon/issues/2)
