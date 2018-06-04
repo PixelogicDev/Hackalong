@@ -33,3 +33,6 @@ The list of items below will be associated with Github Issues which will make it
 - [x] Set a date for the hackathon [#1](https://github.com/PixelogicDev/Hackathon/issues/1)
 - [ ] Set a hackathon theme [#2](https://github.com/PixelogicDev/Hackathon/issues/2)
 - [ ] Finalize judging system [#3](https://github.com/PixelogicDev/Hackathon/issues/2)
+- [ ] Decide On Hackathon Name [#4](https://github.com/PixelogicDev/Hackathon/issues/4)
+- [ ] Recruit at least one other programming/creative streamer to be a part of this event [#5](https://github.com/PixelogicDev/Hackathon/issues/5)
+- [ ] Create a marketing piece for the event [#6](https://github.com/PixelogicDev/Hackathon/issues/6)
