@@ -1,4 +1,5 @@
 # Hackathon Name TBD
+## Date: August 4th - 5th 2018
 
 ### Introduction
 Thanks for considering being a part of coordinating this hackathon! I think this event can be extremely awesome with the help from people like you.
