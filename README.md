@@ -21,7 +21,7 @@ If you are interested in helping out please head over to the [PixelogicDev Disco
 - [MrDemonWolf](https://www.twitch.tv/mrdemonwolf)
 - [5upercircuits](https://www.twitch.tv/5upercircuits)
 - [EddieJaoude](https://www.twitch.tv/eddiejaoude)
-- [nybblesio](https://www.twitch.tv/nybblesio)
+- [Nybblesio](https://www.twitch.tv/nybblesio)
 - [ScopeWebLLC](https://www.twitch.tv/scopewebllc)
 - [Neoplatonist](https://www.twitch.tv/neoplatonist) 
 - [HackingTV](https://www.twitch.tv/hackingtv)
