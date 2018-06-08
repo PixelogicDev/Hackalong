@@ -19,14 +19,15 @@ If you are interested in helping out please head over to the [PixelogicDev Disco
 ### Current Contributing Streamers
 - [PixelogicDev](https://www.twitch.tv/pixelogicdev)
 - [MrDemonWolf](https://www.twitch.tv/mrdemonwolf)
-- [Avaer](https://www.twitch.tv/avaer)
-- [GoPirateSoftware](https://www.twitch.tv/gopiratesoftware)
 - [5upercircuits](https://www.twitch.tv/5upercircuits)
 - [EddieJaoude](https://www.twitch.tv/eddiejaoude)
 - [nybblesio](https://www.twitch.tv/nybblesio)
 - [ScopeWebLLC](https://www.twitch.tv/scopewebllc)
 - [Neoplatonist](https://www.twitch.tv/neoplatonist) 
 - [HackingTV](https://www.twitch.tv/hackingtv)
+- [G33kidd](https://www.twitch.tv/g33kidd)
+- [DonTheDeveloper](https://www.twitch.tv/donthedeveloper)
+- [Saintsintosea](https://www.twitch.tv/saintsintosea)
 
 ### Active TODO List
 The list of items below will be associated with Github Issues which will make it much easier to deal with
@@ -36,3 +37,4 @@ The list of items below will be associated with Github Issues which will make it
 - [x] Decide On Hackathon Name [#4](https://github.com/PixelogicDev/Hackathon/issues/4)
 - [ ] Recruit at least one other programming/creative streamer to be a part of this event [#5](https://github.com/PixelogicDev/Hackathon/issues/5)
 - [ ] Create a marketing piece for the event [#6](https://github.com/PixelogicDev/Hackathon/issues/6)
+- [ ] Prize ideas (#7)[https://github.com/PixelogicDev/Hackathon/issues/7]
