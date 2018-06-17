@@ -1,5 +1,5 @@
 # Hackalong - Twitch Community Hackathon
-### Date: August 4th - 5th 2018
+### Date: August 11th - 12th 2018
 
 ### Introduction
 Thanks for considering being a part of coordinating this hackathon! I think this event can be extremely awesome with the help from people like you.
@@ -29,6 +29,9 @@ If you are interested in helping out please head over to the [PixelogicDev Disco
 - [DonTheDeveloper](https://www.twitch.tv/donthedeveloper)
 - [Saintsintosea](https://www.twitch.tv/saintsintosea)
 
+### Designer
+- Megan Johnston
+
 ### Active TODO List
 The list of items below will be associated with Github Issues which will make it much easier to deal with
 - [x] Set a date for the hackathon [#1](https://github.com/PixelogicDev/Hackathon/issues/1)
@@ -36,5 +39,5 @@ The list of items below will be associated with Github Issues which will make it
 - [ ] Finalize judging system [#3](https://github.com/PixelogicDev/Hackathon/issues/2)
 - [x] Decide On Hackathon Name [#4](https://github.com/PixelogicDev/Hackathon/issues/4)
 - [ ] Recruit at least one other programming/creative streamer to be a part of this event [#5](https://github.com/PixelogicDev/Hackathon/issues/5)
-- [ ] Create a marketing piece for the event [#6](https://github.com/PixelogicDev/Hackathon/issues/6)
+- [x] Create a marketing piece for the event [#6](https://github.com/PixelogicDev/Hackathon/issues/6)
 - [ ] Prize ideas [#7](https://github.com/PixelogicDev/Hackathon/issues/7)
