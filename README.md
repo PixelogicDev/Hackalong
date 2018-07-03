@@ -22,22 +22,24 @@ If you are interested in helping out please head over to the [PixelogicDev Disco
 - [5upercircuits](https://www.twitch.tv/5upercircuits)
 - [EddieJaoude](https://www.twitch.tv/eddiejaoude)
 - [Nybblesio](https://www.twitch.tv/nybblesio)
-- [ScopeWebLLC](https://www.twitch.tv/scopewebllc)
+- [TheTechExec](https://www.twitch.tv/thetechexec)
 - [Neoplatonist](https://www.twitch.tv/neoplatonist) 
 - [HackingTV](https://www.twitch.tv/hackingtv)
 - [G33kidd](https://www.twitch.tv/g33kidd)
 - [DonTheDeveloper](https://www.twitch.tv/donthedeveloper)
 - [Saintsintosea](https://www.twitch.tv/saintsintosea)
+- [MattDev](https://www.twitch.tv/mattdevelopment)
 
 ### Designer
-- Megan Johnston
+- [Megan Johnston](http://www.behance.net/megielf)
 
 ### Active TODO List
 The list of items below will be associated with Github Issues which will make it much easier to deal with
 - [x] Set a date for the hackathon [#1](https://github.com/PixelogicDev/Hackathon/issues/1)
 - [x] Set a hackathon theme [#2](https://github.com/PixelogicDev/Hackathon/issues/2)
-- [ ] Finalize judging system [#3](https://github.com/PixelogicDev/Hackathon/issues/2)
+- [x] Finalize judging system [#3](https://github.com/PixelogicDev/Hackathon/issues/2)
 - [x] Decide On Hackathon Name [#4](https://github.com/PixelogicDev/Hackathon/issues/4)
 - [ ] Recruit at least one other programming/creative streamer to be a part of this event [#5](https://github.com/PixelogicDev/Hackathon/issues/5)
 - [x] Create a marketing piece for the event [#6](https://github.com/PixelogicDev/Hackathon/issues/6)
 - [ ] Prize ideas [#7](https://github.com/PixelogicDev/Hackathon/issues/7)
+- [x] Hackathon Description (https://github.com/PixelogicDev/Hackathon/issues/8)
