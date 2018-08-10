@@ -14,7 +14,7 @@ This online hackathon is a collaberation between many Creative/Programming strea
 Being able to award participants prizes for their best hacks is a very rewarding and encouraging incentive to get people to come and participant in this hackathon. I am personally trying my best to get funding to get some awesome prizes for everyone. If you are interested in contributing anything towards prizes that would be extremely helpful. I do want to note that this is not required at all to help coordinate.
 
 ### Getting Started
-If you are interested in helping out please head over to the [PixelogicDev Discord](discord.gg/QECjjX9) and let us know you are there. You will then receive a Hack Coordinator role where you will have access to the channel. I can then add you to this repo to begin editing as needed.
+If you are interested in helping out please head over to the [Hackalong Discord](discord.gg/ZjQXjjs) and let us know you are there. You will then receive a Hack Coordinator role where you will have access to the channel. I can then add you to this repo to begin editing as needed.
 
 ### Current Contributing Streamers
 - [PixelogicDev](https://www.twitch.tv/pixelogicdev)
